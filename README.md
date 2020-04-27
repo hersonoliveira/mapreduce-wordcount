@@ -1,8 +1,8 @@
-A simple HelloWorld scala project for MapReduce - Word Count
+### A simple HelloWorld scala project for MapReduce - Word Count
 
 Hadoop version: 3.2.1
 
-#### How to run
+## How to run
 
 Assemble the project
 
